@@ -4,4 +4,10 @@ place = dvg
 
 address == malleshwaram
 
+district == davangere 
+
+Pin code == 577004
+
 state == karnataka
+
+Country = India 
