@@ -11,5 +11,3 @@ Pin code == 577004
 state == karnataka
 
 Country = India 
-
-Brother = Madhu
